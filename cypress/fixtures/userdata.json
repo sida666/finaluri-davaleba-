@@ -1,0 +1,19 @@
+{
+    "info":{
+        "Name":"misha",
+        "Email":"test@test1.test",
+        "Password":"test1234",
+        "PersonaID":"12345678899",
+        "MobileNumber":"592666680"
+        },
+    
+    "info1":{
+            "IncorrectEmail":"test666@test.test",
+            "Password":"test1234"
+        },
+    "info2":{
+            "CorrectEmail":"test@test.test",
+            "Password":"test1234"
+        }
+    }
+    
